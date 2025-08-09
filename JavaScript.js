@@ -1,7 +1,7 @@
 const songs = [
-    {title: "100 Million", artist: "Divine,Karan Aujla", src: "/storage/emulated/0/Vidmate/download/100million.mp3", cover: "/storage/emulated/0/image_gallery/img1.png"},
-    {title: "Wining Speech", artist: "Karan Aujla", src: "/storage/emulated/0/Vidmate/download/Winning_speech.mp3", cover: "/storage/emulated/0/image_gallery/img2.png"},
-    {title: "Thodi Si Daaru", artist: "AP Dhillon", src: "/storage/emulated/0/Vidmate/download/Thodi_Si_Daaru.mp3", cover: "/storage/emulated/0/image_gallery/img3.png"}
+    {title: "100 Million", artist: "Divine,Karan Aujla", src: "Song/100million.mp3", cover: "Photo/img1.png"},
+    {title: "Wining Speech", artist: "Karan Aujla", src: "Song/Winning_speech.mp3", cover: "Photo/img2.png"},
+    {title: "Thodi Si Daaru", artist: "AP Dhillon", src: "Song/Thodi_Si_Daaru.mp3", cover: "Photo/img3.png"}
 ];
 
 let currentSongIndex = 0;
